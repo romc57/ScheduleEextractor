@@ -1,0 +1,359 @@
+[
+  {
+    "day":  "Sunday",
+    "schedule": [
+      {
+        "start_time": "08:00",
+        "end_time": "09:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "11:00",
+        "end_time": "12:00",
+        "task": "none",
+        "category": "none"
+      },     {
+        "start_time": "12:00",
+        "end_time": "13:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "13:00",
+        "end_time": "14:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "14:00",
+        "end_time": "15:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "15:00",
+        "end_time": "16:00",
+        "task": "none",
+        "category": "none"
+      }
+    ]},
+  {
+    "day": "Monday",
+    "schedule": [
+      {
+        "start_time": "08:00",
+        "end_time": "09:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "11:00",
+        "end_time": "12:00",
+        "task": "none",
+        "category": "none"
+      },     {
+        "start_time": "12:00",
+        "end_time": "13:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "13:00",
+        "end_time": "14:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "14:00",
+        "end_time": "15:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "15:00",
+        "end_time": "16:00",
+        "task": "none",
+        "category": "none"
+      }
+    ]},
+  {
+    "day":  "Tuesday",
+    "schedule": [
+      {
+        "start_time": "08:00",
+        "end_time": "09:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "11:00",
+        "end_time": "12:00",
+        "task": "none",
+        "category": "none"
+      },     {
+        "start_time": "12:00",
+        "end_time": "13:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "13:00",
+        "end_time": "14:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "14:00",
+        "end_time": "15:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "15:00",
+        "end_time": "16:00",
+        "task": "none",
+        "category": "none"
+      }
+    ]},
+  {
+    "day": "Wednesday",
+    "schedule": [
+      {
+        "start_time": "08:00",
+        "end_time": "09:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "11:00",
+        "end_time": "12:00",
+        "task": "none",
+        "category": "none"
+      },     {
+        "start_time": "12:00",
+        "end_time": "13:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "13:00",
+        "end_time": "14:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "14:00",
+        "end_time": "15:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "15:00",
+        "end_time": "16:00",
+        "task": "none",
+        "category": "none"
+      }
+    ]},
+  {
+    "day": "Thursday",
+    "schedule": [
+      {
+        "start_time": "08:00",
+        "end_time": "09:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "11:00",
+        "end_time": "12:00",
+        "task": "none",
+        "category": "none"
+      },     {
+        "start_time": "12:00",
+        "end_time": "13:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "13:00",
+        "end_time": "14:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "14:00",
+        "end_time": "15:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "15:00",
+        "end_time": "16:00",
+        "task": "none",
+        "category": "none"
+      }
+    ]},
+  {
+    "day": "Friday",
+    "schedule": [
+      {
+        "start_time": "08:00",
+        "end_time": "09:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "11:00",
+        "end_time": "12:00",
+        "task": "none",
+        "category": "none"
+      },     {
+        "start_time": "12:00",
+        "end_time": "13:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "13:00",
+        "end_time": "14:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "14:00",
+        "end_time": "15:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "15:00",
+        "end_time": "16:00",
+        "task": "none",
+        "category": "none"
+      }
+    ]},
+  {
+    "day": "Saturday",
+    "schedule": [
+      {
+        "start_time": "08:00",
+        "end_time": "09:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "11:00",
+        "end_time": "12:00",
+        "task": "none",
+        "category": "none"
+      },     {
+        "start_time": "12:00",
+        "end_time": "13:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "13:00",
+        "end_time": "14:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "14:00",
+        "end_time": "15:00",
+        "task": "none",
+        "category": "none"
+      },
+      {
+        "start_time": "15:00",
+        "end_time": "16:00",
+        "task": "none",
+        "category": "none"
+      }
+    ]}
+]
