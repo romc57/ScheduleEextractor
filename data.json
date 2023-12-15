@@ -5,31 +5,35 @@
       {
         "start_time": "08:00",
         "end_time": "09:00",
-        "task": "none",
-        "category": "none"
+        "task": "Pickup drugs for Jonathan",
+        "category": null,
+        "participates": ["Jonathan"]
       },
       {
         "start_time": "09:00",
         "end_time": "10:00",
-        "task": "none",
-        "category": "none"
+        "task": "Phone call Naomi",
+        "category": "Phone call",
+        "participates": ["Noami"]
       },
       {
         "start_time": "10:00",
         "end_time": "11:00",
-        "task": "none",
-        "category": "none"
+        "task": "Meet up with traveling agency",
+        "category": "Meeting",
+        "participates": ["Traveling agency"]
       },
       {
         "start_time": "11:00",
         "end_time": "12:00",
         "task": "none",
-        "category": "none"
-      },     {
+        "category": null
+      },
+      {
         "start_time": "12:00",
         "end_time": "13:00",
-        "task": "none",
-        "category": "none"
+        "tasks": ["Phone call vegetable shop", "pickup paint from shop"],
+        "category": null
       },
       {
         "start_time": "13:00",
