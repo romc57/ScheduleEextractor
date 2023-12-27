@@ -5,16 +5,16 @@
       {
         "start_time": "08:00",
         "end_time": "09:00",
-        "task": "Pickup drugs for Jonathan",
+        "tasks": ["Pickup drugs for Jonathan"],
         "category": null,
         "participates": ["Jonathan"]
       },
       {
         "start_time": "09:00",
         "end_time": "10:00",
-        "task": "Phone call Naomi",
-        "category": "Phone call",
-        "participates": ["Noami"]
+        "tasks": ["Phone call Naomi"],
+        "category": "PhoneCall",
+        "participates": ["Naomi"]
       },
       {
         "start_time": "10:00",
