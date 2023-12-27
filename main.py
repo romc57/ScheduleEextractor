@@ -2,4 +2,5 @@ from Schedule import Schedule
 
 
 if __name__ == '__main__':
-    Src = Schedule()
+    Src = Schedule('data.json')
+    print(Src)
