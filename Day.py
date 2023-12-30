@@ -13,7 +13,7 @@ class Day:
             self.schedule.append(Arrangement(self.schedule[i]))
 
     def __len__(self):
-        return self.schedule
+        return len(self.schedule)
 
 
 
